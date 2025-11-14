@@ -36,3 +36,26 @@ Antwort: Muss selber organisieren erst dann ist es sicher
 
 11. Das erstellen von Backups ist im geschäftsumfeld freiwillig.
 Antwort §: 10 sonst nicht
+
+
+## Aufgabe 2
+
+| Daten / Art       | Image / 1:1 Klonen | Backup / Original → Kopiert | Archiv / Original → verschieben |
+|-------------------|---------------------|------------------------------|----------------------------------|
+| **Systemdaten**   |                     |                              |                                  |
+| OS                |                     |                              |                                  |
+| Einstellungen      |                     |                              |                                  |
+| Apps              |                     |                              |                                  |
+| Einstellungen      |                     |                              |                                  |
+|                   |                     |                              |                                  |
+| **Benutzerdaten** |                     |                              |                                  |
+|                   |                     |                              |                                  |
+| **Prozessdaten**  |                     |                              |                                  |
+|                   |                     |                              |                                  |
+| **Sensible Daten**|                     |                              |                                  |
+|                   |                     |                              |                                  |
+| **Medien**        |                     |                              |                                  |
+|                   |                     |                              |                                  |
+| **Analoge Daten** |                     |                              |                                  |
+|                   |                     |                              |                                  |
+
