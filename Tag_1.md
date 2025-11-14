@@ -45,12 +45,12 @@ Antwort §: 10 sonst nicht
 | **Systemdaten**   | ✔️                  | ❌                            | ❌                               |
 | • OS              | ✔️                  | ❌                            | ❌                               |
 | • Einstellung     | ✔️                  | ❌                            | ❌                               |
-| **Apps**          | ✔️                  | ❌                            | ❌                               |
+| **Apps**          | ✔️  (Installer)     | ❌                            | ❌                               |
 | • Einstellung     | ✔️                  | ❌                            | ❌                               |
-| **Benutzerdaten** | ❌                  | ✔️                            | ✔️                               |
-| **Prozessdaten**  | ❌                  | ✔️                            | ❌                               |
-| **Sensible Daten**| ❌                  | ✔️                            | ✔️ (je nach Zweck)               |
-| **Medien**        | ❌                  | ✔️                            | ✔️                               |
-| **Analoge Daten** | ❌                  | ❌                            | ✔️                               |
+| **Benutzerdaten** | ❌                  | ✔️                            | ✔️       (Wichtig Ja)            |
+| **Prozessdaten**  | ❌                  | ✔️                            | ❌         (wichtig ja)          |
+| **Sensible Daten**| ❌                  | ✔️        Verschlüsselt sein  | ✔️ (verschlüsselt)               |
+| **Medien**        | ❌                  | ❌                            | ❌                               |
+| **Analoge Daten** | ❌                  | ❌                            | ✔️            (Digitalisieren)   |
 
 
