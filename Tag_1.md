@@ -53,4 +53,9 @@ Antwort §: 10 sonst nicht
 | **Medien**        | ❌                  | ❌                            | ❌                               |
 | **Analoge Daten** | ❌                  | ❌                            | ✔️            (Digitalisieren)   |
 
+Priorisieren:
 
+1. Sensible Daten 
+2. Wichtige Prozessdaten, Benutzerdaten
+3. Prozessdaten, Benutzerdaten
+4. Medien, Rest
