@@ -40,22 +40,17 @@ Antwort §: 10 sonst nicht
 
 ## Aufgabe 2
 
-| Daten / Art       | Image / 1:1 Klonen | Backup / Original → Kopiert | Archiv / Original → verschieben |
-|-------------------|---------------------|------------------------------|----------------------------------|
-| **Systemdaten**   |                     |                              |                                  |
-| OS                |                     |                              |                                  |
-| Einstellungen      |                     |                              |                                  |
-| Apps              |                     |                              |                                  |
-| Einstellungen      |                     |                              |                                  |
-|                   |                     |                              |                                  |
-| **Benutzerdaten** |                     |                              |                                  |
-|                   |                     |                              |                                  |
-| **Prozessdaten**  |                     |                              |                                  |
-|                   |                     |                              |                                  |
-| **Sensible Daten**|                     |                              |                                  |
-|                   |                     |                              |                                  |
-| **Medien**        |                     |                              |                                  |
-|                   |                     |                              |                                  |
-| **Analoge Daten** |                     |                              |                                  |
-|                   |                     |                              |                                  |
+| Daten / Art       | Image / 1:1 Klonen | Backup / Original → 1:1 Kopie | Archiv / Original → verschieben |
+|-------------------|---------------------|-------------------------------|----------------------------------|
+| **Systemdaten**   | ✔️                  | ❌                            | ❌                               |
+| • OS              | ✔️                  | ❌                            | ❌                               |
+| • Einstellung     | ✔️                  | ❌                            | ❌                               |
+| **Apps**          | ✔️                  | ❌                            | ❌                               |
+| • Einstellung     | ✔️                  | ❌                            | ❌                               |
+| **Benutzerdaten** | ❌                  | ✔️                            | ✔️                               |
+| **Prozessdaten**  | ❌                  | ✔️                            | ❌                               |
+| **Sensible Daten**| ❌                  | ✔️                            | ✔️ (je nach Zweck)               |
+| **Medien**        | ❌                  | ✔️                            | ✔️                               |
+| **Analoge Daten** | ❌                  | ❌                            | ✔️                               |
+
 
