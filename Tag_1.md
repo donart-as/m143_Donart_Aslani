@@ -31,8 +31,8 @@ Antwort: nein, systemdaten benutzer-, app-, konfigurationdaten
 9. Der Faktor zeit spielt bei der Backuperstellung keine Rolle.
 Antwort:Doch, Backupzeit, restorezeit
 
-10.Google macht von der Benutzerdaten keine Backups.
+10. Google macht von der Benutzerdaten keine Backups.
 Antwort: Muss selber organisieren erst dann ist es sicher
 
-11.Das erstellen von Backups ist im geschäftsumfeld freiwillig.
+11. Das erstellen von Backups ist im geschäftsumfeld freiwillig.
 Antwort §: 10 sonst nicht
