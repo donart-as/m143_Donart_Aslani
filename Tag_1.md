@@ -4,14 +4,35 @@
 
 **11 Thesen**
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+1.Daten Backups kostet nichts
+Antwort:  Falsch Hardware, Lizenzen, Mitarbeiter, Miete
+
+2. Backups sind heute nicht mehr erforderlich
+Antwort:  doch! Steueramt, wertvoll
+
+3. Daten in der Cloud sind immer sicher.
+Antwort:keine 100% Garantie, Cloud am sichersten
+
+4.Nach dem Einrichten eines Backups ist sichergestellt, dass alle Daten immer werden.
+Antwort: Nein! Backup -> RESTORE, Aktuell?, Ausfall
+
+5.Der Datenverlust in einer Firma kostet nichts
+Antwort:30% nichts / 70% -> Milliarden
+
+6.Es müssen immer alle Daten gesichert werden.
+Antwort:nein, Klassifiziezierung: Sensible daten bis junk
+
+7.Eine Datensicherung pro Woche genügt.
+Antwort:Nein, 1 Wo: Full / 1 Tag
+
+8.Es gibt nur eine Art von Daten. deshalb kann die Backuperstellung immer gleich ausgeführt werden.
+Antwort: nein, systemdaten benutzer-, app-, konfigurationdaten
+
+9.Der Faktor zeit spielt bei der Backuperstellung keine Rolle.
+Antwort:Doch, Backupzeit, restorezeit
+
+10.Google macht von der Benutzerdaten keine Backups.
+Antwort: Muss selber organisieren erst dann ist es sicher
+
+11.Das erstellen von Backups ist im geschäftsumfeld freiwillig.
+Antwort §: 10 sonst nicht
