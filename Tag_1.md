@@ -40,7 +40,7 @@ Antwort §: 10 sonst nicht
 
 ## Aufgabe 2
 
-| Daten / Art       | Image / 1:1 Klonen | Backup / Original → 1:1 Kopie | Archiv / Original → verschieben |
+| Daten ↓ / Art →    | Image / 1:1 Klonen | Backup / Original → 1:1 Kopie | Archiv / Original → verschieben |
 |-------------------|---------------------|-------------------------------|----------------------------------|
 | **Systemdaten**   | ✔️                  | ❌                            | ❌                               |
 | • OS              | ✔️                  | ❌                            | ❌                               |
