@@ -60,4 +60,4 @@ Priorisieren:
 3. Prozessdaten, Benutzerdaten
 4. Medien, Rest
 
-![alt text](image.png)
+![alt text](image-1.png)
