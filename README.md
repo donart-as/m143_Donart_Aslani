@@ -43,7 +43,7 @@ Daten werden genutzt für:
 - Backups / Datensicherungen
 - Zugriffsrechte
 - Verschlüsselung
-- Technische und organisatorische Maßnahmen
+- Technische und organisatorische Massnahmen
 
 ---
 
@@ -52,7 +52,7 @@ Daten werden genutzt für:
 | Begriff | Bedeutung | Zweck |
 |-------|----------|-------|
 | Image | 1:1-Abbild eines Datenträgers | Systemwiederherstellung |
-| Backup | Regelmäßige Datensicherung | Wiederherstellung einzelner Daten |
+| Backup | Regelmässige Datensicherung | Wiederherstellung einzelner Daten |
 | Archiv | Langfristige, unveränderbare Speicherung | Gesetzliche Aufbewahrung |
 
 ---
@@ -74,7 +74,7 @@ Daten werden genutzt für:
 
 ---
 
-# Schutzmaßnahmen
+# Schutzmassnahmen
 
 | Technisch | Baulich | Organisatorisch |
 |---------|--------|-----------------|
@@ -90,7 +90,7 @@ Daten werden genutzt für:
 - Rückspielen gesicherter Daten
 
 ## Disaster Recovery (DR)
-- Wiederherstellung nach großen Ausfällen
+- Wiederherstellung nach grossen Ausfällen
 
 ---
 
@@ -178,7 +178,7 @@ RAID schützt vor Festplattenausfall, **ersetzt kein Backup**.
 | Art | Vorteil | Nachteil |
 |----|--------|---------|
 | File-Level | Einfach | Speicherintensiv |
-| Image-Level | Schnell | Große Backups |
+| Image-Level | Schnell | Grosse Backups |
 | Block-Level | Effizient | Komplex |
 | Object | Skalierbar | Teurer |
 
